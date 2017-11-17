@@ -1,2 +1,2 @@
-# FanshaweCPAStudyGroup
-Fanshawe CPA Study Group 2020
+# Class of 2020 CPA Study Group 
+More info coming soon.
