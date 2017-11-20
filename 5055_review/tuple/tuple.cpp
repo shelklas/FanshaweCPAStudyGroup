@@ -200,6 +200,7 @@ BOOST_AUTO_TEST_CASE(constuctors) {
 	}
 
 	{
+		//init values i, d, f
 		int i = 123456;
 		double d = 42.99999999;
 		foo f(987654);
