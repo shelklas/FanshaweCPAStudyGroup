@@ -166,9 +166,12 @@
 *
 #endif
 
+
 #include <boost\test\unit_test.hpp>
 #include <tuple>
 #include <vector>
+#include <string>
+
 
 struct foo {
 	int attr_;
